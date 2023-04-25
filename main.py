@@ -30,7 +30,6 @@ import whois
 from scapy.all import *
 
 
-
 def traceroute(target):
     result_text.delete('1.0', END)
     ttl = 1
