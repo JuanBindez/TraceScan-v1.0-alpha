@@ -1,6 +1,6 @@
 # this is part of the TraceScan project.
 #
-# Release: v1.0-dev3
+# Release: v1.0-alpha
 #
 # Copyright (c) 2023  Juan Bindez  <juanbindez780@gmail.com>
 #
